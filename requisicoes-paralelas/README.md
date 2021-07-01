@@ -6,6 +6,6 @@ Foram feitas mais de 150 requisições em menos de 1 segundo à uma API pública
 
 Para executar o programa:
  
- - Sugiro criar um ambiente virtual (se não sabe ainda como utilizar, leia esse post: [PYTHON E VIRTUALENV: COMO PROGRAMAR EM AMBIENTES VIRTUAIS](https://pythonacademy.com.br/blog/python-e-virtualenv-como-programar-em-ambientes-virtuais));
+ - Crie um ambiente virtual (_Não sabe como?_, leia esse post: [Python e Virtualenv: Como programar em Ambientes Virtuais](https://pythonacademy.com.br/blog/python-e-virtualenv-como-programar-em-ambientes-virtuais));
  - Instale as dependências com `pip install -r requirements.txt`.
  - Execute o código com `python main.py`.
