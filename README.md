@@ -12,4 +12,5 @@ Visite nosso Blog em https://pythonacademy.com.br e nossas Redes Sociais:
  - [Como formatar dados em Tabelas](dados-em-tabelas)
  - [Seu primeiro projeto de Webscraping](primeiro-webscraping)
  - [Reconhecimento de Textos em Imagens (OCR)](reconhecimento-textual)
- - [Conversão de Áudio para Textos (_Speech to Text_)](speech-to-text)
+ - [Conversão de Áudio para Texto (_Speech to Text_)](audio-para-texto)
+ - [Conversão de Texto para Áudio (_Text to Speech_)](texto-para-audio)

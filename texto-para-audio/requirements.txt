@@ -1,0 +1,3 @@
+gTTS
+pyttsx3
+playsound
