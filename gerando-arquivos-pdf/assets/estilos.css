@@ -1,0 +1,27 @@
+body {
+    color: #444;
+}
+
+h1 {
+    font-family: 'Helvetica', sans-serif;
+    margin-bottom: 36px;
+}
+
+p, li {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+code {
+    background: #eee;
+    padding: 2px 6px;
+    border: 1px solid #ccc;
+    position: relative;
+    bottom: 2px;
+    border-radius: 6px;
+}
+
+.logo {
+    text-align: center;
+    margin-bottom: 20px;
+}
