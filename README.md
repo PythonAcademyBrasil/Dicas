@@ -14,3 +14,4 @@ Visite nosso Blog em https://pythonacademy.com.br e nossas Redes Sociais:
  - [Reconhecimento de Textos em Imagens (OCR)](reconhecimento-textual)
  - [Conversão de Áudio para Texto (_Speech to Text_)](audio-para-texto)
  - [Conversão de Texto para Áudio (_Text to Speech_)](texto-para-audio)
+ - [Geração de Arquivos PDF](gerando-arquivos-pdf)
