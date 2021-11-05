@@ -16,3 +16,4 @@ Visite nosso Blog em https://pythonacademy.com.br e nossas Redes Sociais:
  - [Conversão de Texto para Áudio (_Text to Speech_)](texto-para-audio)
  - [Geração de Arquivos PDF](gerando-arquivos-pdf)
  - [Manipulação de Arquivos Excel](manipulando-arquivos-excel)
+ - [Como Extrar Áudio de Vídeos](extraindo-audio-de-videos)
