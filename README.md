@@ -18,3 +18,4 @@ Visite nosso Blog em https://pythonacademy.com.br e nossas Redes Sociais:
  - [Manipulação de Arquivos Excel](manipulando-arquivos-excel)
  - [Como Extrar Áudio de Vídeos](extraindo-audio-de-videos)
  - [Automação com Selenium](automacao-com-selenium)
+ - [Validar email](validar-email)
